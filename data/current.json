@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-14T00:20:20.630Z",
-  "capturedAtUnix": 1781396420630,
+  "capturedAt": "2026-06-14T04:00:17.353Z",
+  "capturedAtUnix": 1781409617353,
   "epoch": {
     "number": 189,
     "starts_at": "2026-06-08T00:00:00.000Z",
     "ends_at": "2026-06-15T00:00:00.000Z",
-    "progress_pct": 85.91610945767196
+    "progress_pct": 88.09810730820105
   },
   "retention": "live_only",
-  "luna_price_used_usd": 0.052252,
+  "luna_price_used_usd": 0.052195,
   "enumeration": {
     "token_count": 431,
     "expected": 431,
@@ -17,7 +17,7 @@
     "lock_errors": 0
   },
   "system": {
-    "captured_at": "2026-06-14T00:20:20.630Z",
+    "captured_at": "2026-06-14T04:00:17.353Z",
     "epoch": 189,
     "total_locks": 431,
     "unique_holders": 202,
