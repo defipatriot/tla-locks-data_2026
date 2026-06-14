@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "captured_at": "2026-06-14T00:08:10.763Z",
+  "captured_at": "2026-06-14T00:20:20.630Z",
   "epoch": 189,
   "total_locks": 431,
   "unique_holders": 202,
@@ -10,7 +10,7 @@
     "decaying": 23979112.927765
   },
   "system_vp_sum_from_locks": 23947960.221776985,
-  "system_stale_vp_gap": 268986.34509850957,
+  "system_stale_vp_gap": 3491135.379124207,
   "auto_max": {
     "lock_count": 277,
     "vp": 22529121.874775983
@@ -21,20 +21,20 @@
   },
   "by_asset": [
     {
-      "asset": "cw20:terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
+      "asset": "ampLUNA",
       "vp": 7775449.8807599945,
       "locks": 231,
       "amount": 484092.6235340001,
-      "stale_vp_gap": 157288.4218606923,
-      "underlying_now": 484092.6235340001
+      "stale_vp_gap": 1487138.2712119862,
+      "underlying_now": 1047667.669840763
     },
     {
-      "asset": "cw20:terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
+      "asset": "arbLUNA",
       "vp": 15104242.775423,
       "locks": 79,
       "amount": 653198.1822439998,
-      "stale_vp_gap": 55777.38202290387,
-      "underlying_now": 653198.1822439998
+      "stale_vp_gap": 1753072.706628331,
+      "underlying_now": 1928275.1725748081
     },
     {
       "asset": "LUNA",
@@ -45,15 +45,15 @@
       "underlying_now": 33704.506705
     },
     {
-      "asset": "cw20:terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      "asset": "bLUNA",
       "vp": 757651.6978489999,
       "locks": 68,
       "amount": 62620.06100600002,
-      "stale_vp_gap": 26152.80488222115,
-      "underlying_now": 62620.06100600002
+      "stale_vp_gap": 221156.66495119844,
+      "underlying_now": 110609.44055696545
     },
     {
-      "asset": "native:ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+      "asset": "stLUNA",
       "vp": 22913.241381,
       "locks": 4,
       "amount": 4202.130725,
