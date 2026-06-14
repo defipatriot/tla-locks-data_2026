@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-14T00:20:20.630Z",
-  "runId": "tla-locks-20260614002020",
+  "capturedAt": "2026-06-14T04:00:17.353Z",
+  "runId": "tla-locks-20260614040017",
   "status": "ok",
-  "next_expected_run_at": "2026-06-15T01:20:20.630Z",
+  "next_expected_run_at": "2026-06-15T05:00:17.353Z",
   "stats": {
     "total_locks": 431,
     "unique_holders": 202,
