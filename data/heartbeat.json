@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-06-14T00:08:10.763Z",
+  "runId": "tla-locks-20260614000810",
+  "status": "ok",
+  "next_expected_run_at": "2026-06-15T01:08:10.763Z",
+  "stats": {
+    "total_locks": 431,
+    "unique_holders": 202,
+    "lock_errors": 0,
+    "enumeration_complete": true,
+    "system_vp": 26858869.462011,
+    "system_stale_vp_gap": 268986.34509850957
+  }
+}
