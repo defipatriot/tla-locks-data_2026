@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-21T04:00:50.900Z",
-  "runId": "tla-locks-20260621040050",
+  "capturedAt": "2026-06-22T04:00:56.577Z",
+  "runId": "tla-locks-20260622040056",
   "status": "ok",
-  "next_expected_run_at": "2026-06-22T05:00:50.900Z",
+  "next_expected_run_at": "2026-06-23T05:00:56.577Z",
   "stats": {
-    "total_locks": 432,
-    "unique_holders": 202,
+    "total_locks": 433,
+    "unique_holders": 203,
     "lock_errors": 0,
     "enumeration_complete": true,
-    "system_vp": 27053640.582636,
-    "system_stale_vp_gap": 3570963.875611185
+    "system_vp": 27086270.719187,
+    "system_stale_vp_gap": 3613934.045404773
   }
 }
