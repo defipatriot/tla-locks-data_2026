@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "captured_at": "2026-06-26T04:00:28.936Z",
+  "epoch": 191,
+  "total_locks": 434,
+  "unique_holders": 203,
+  "system_vp": {
+    "total": 27167672.437414,
+    "fixed": 2916611.126689,
+    "decaying": 24251061.310725
+  },
+  "system_vp_sum_from_locks": 24219926.21247798,
+  "system_stale_vp_gap": 3648037.3366122595,
+  "auto_max": {
+    "lock_count": 280,
+    "vp": 22862644.411724977
+  },
+  "decaying": {
+    "lock_count": 154,
+    "vp": 1357281.8007529997
+  },
+  "by_asset": [
+    {
+      "asset": "ampLUNA",
+      "vp": 7799307.085755997,
+      "locks": 234,
+      "amount": 485722.6120320001,
+      "stale_vp_gap": 1571548.7762818753,
+      "underlying_now": 1060581.1884743192
+    },
+    {
+      "asset": "arbLUNA",
+      "vp": 15351981.271069003,
+      "locks": 79,
+      "amount": 662354.5030719999,
+      "stale_vp_gap": 1821148.001102027,
+      "underlying_now": 1962516.42068301
+    },
+    {
+      "asset": "LUNA",
+      "vp": 287342.313306,
+      "locks": 49,
+      "amount": 33704.506705,
+      "stale_vp_gap": 15222.114246692314,
+      "underlying_now": 33704.506705
+    },
+    {
+      "asset": "bLUNA",
+      "vp": 759109.4197399998,
+      "locks": 68,
+      "amount": 62798.07226600002,
+      "stale_vp_gap": 224485.39106366315,
+      "underlying_now": 111144.96135317546
+    },
+    {
+      "asset": "stLUNA",
+      "vp": 22186.122607,
+      "locks": 4,
+      "amount": 4202.130725,
+      "stale_vp_gap": 15633.053917999998,
+      "underlying_now": 4202.130725
+    }
+  ],
+  "unlock_cliff": [
+    {
+      "bucket": "0-4w",
+      "vp": 0,
+      "lock_count": 43,
+      "pct_of_decaying_vp": 0
+    },
+    {
+      "bucket": "4-8w",
+      "vp": 2819.291688,
+      "lock_count": 3,
+      "pct_of_decaying_vp": 0.2077160164113229
+    },
+    {
+      "bucket": "8-13w",
+      "vp": 1397.9261419999998,
+      "lock_count": 27,
+      "pct_of_decaying_vp": 0.10299453961767197
+    },
+    {
+      "bucket": "13-26w",
+      "vp": 54409.162671,
+      "lock_count": 14,
+      "pct_of_decaying_vp": 4.008685789554875
+    },
+    {
+      "bucket": "26-52w",
+      "vp": 599125.386524,
+      "lock_count": 43,
+      "pct_of_decaying_vp": 44.14156192115846
+    },
+    {
+      "bucket": "52w+",
+      "vp": 699530.033728,
+      "lock_count": 24,
+      "pct_of_decaying_vp": 51.53904173325768
+    }
+  ],
+  "decay_projection": [
+    {
+      "weeks_ahead": 4,
+      "at_period": 195,
+      "approx_date": "2026-07-27",
+      "vp": 27012248.984063
+    },
+    {
+      "weeks_ahead": 8,
+      "at_period": 199,
+      "approx_date": "2026-08-24",
+      "vp": 26888900.231319
+    },
+    {
+      "weeks_ahead": 13,
+      "at_period": 204,
+      "approx_date": "2026-09-28",
+      "vp": 26736278.035833
+    },
+    {
+      "weeks_ahead": 26,
+      "at_period": 217,
+      "approx_date": "2026-12-28",
+      "vp": 26362994.162826
+    },
+    {
+      "weeks_ahead": 52,
+      "at_period": 243,
+      "approx_date": "2027-06-28",
+      "vp": 25971811.142154
+    }
+  ]
+}
