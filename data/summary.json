@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "captured_at": "2026-07-14T04:00:48.263Z",
+  "captured_at": "2026-07-15T04:00:44.191Z",
   "epoch": 194,
   "total_locks": 433,
   "unique_holders": 203,
   "system_vp": {
-    "total": 27973049.25043,
-    "fixed": 3008364.592206,
-    "decaying": 24964684.658224
+    "total": 27975687.09565,
+    "fixed": 3008628.376728,
+    "decaying": 24967058.718922
   },
-  "system_vp_sum_from_locks": 24929503.771922987,
-  "system_stale_vp_gap": 3758119.398362129,
+  "system_vp_sum_from_locks": 24931877.832620986,
+  "system_stale_vp_gap": 3774281.933809912,
   "auto_max": {
     "lock_count": 277,
-    "vp": 23267663.64354598
+    "vp": 23270037.704243984
   },
   "decaying": {
     "lock_count": 156,
@@ -22,19 +22,19 @@
   "by_asset": [
     {
       "asset": "ampLUNA",
-      "vp": 8106489.8415169995,
+      "vp": 8108151.940807999,
       "locks": 233,
-      "amount": 497223.03729700024,
-      "stale_vp_gap": 1611991.968368773,
-      "underlying_now": 1100525.9783860892
+      "amount": 497227.3256980002,
+      "stale_vp_gap": 1622673.0082019474,
+      "underlying_now": 1101923.5398002162
     },
     {
       "asset": "arbLUNA",
-      "vp": 15756734.253751002,
+      "vp": 15757446.215158,
       "locks": 79,
-      "amount": 675314.6317679997,
-      "stale_vp_gap": 1886110.5968402426,
-      "underlying_now": 2015095.224263704
+      "amount": 675331.8950829997,
+      "stale_vp_gap": 1891592.0924543992,
+      "underlying_now": 2015801.1762332462
     },
     {
       "asset": "LUNA",
@@ -49,8 +49,8 @@
       "vp": 758382.3884899998,
       "locks": 68,
       "amount": 62943.59982300001,
-      "stale_vp_gap": 227530.51724042132,
-      "underlying_now": 111402.52745616183
+      "stale_vp_gap": 227530.51724087392,
+      "underlying_now": 111402.52745621293
     },
     {
       "asset": "stLUNA",
@@ -104,31 +104,31 @@
       "weeks_ahead": 4,
       "at_period": 198,
       "approx_date": "2026-08-17",
-      "vp": 27797979.617008
+      "vp": 27800617.462228
     },
     {
       "weeks_ahead": 8,
       "at_period": 202,
       "approx_date": "2026-09-14",
-      "vp": 27659974.287761
+      "vp": 27662612.132981
     },
     {
       "weeks_ahead": 13,
       "at_period": 207,
       "approx_date": "2026-10-19",
-      "vp": 27487958.823429
+      "vp": 27490596.668649
     },
     {
       "weeks_ahead": 26,
       "at_period": 220,
       "approx_date": "2027-01-18",
-      "vp": 27072453.060452
+      "vp": 27075090.905672
     },
     {
       "weeks_ahead": 52,
       "at_period": 246,
       "approx_date": "2027-07-19",
-      "vp": 26632155.06352
+      "vp": 26634792.90874
     }
   ]
 }
