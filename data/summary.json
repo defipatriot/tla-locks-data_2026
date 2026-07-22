@@ -1,40 +1,40 @@
 {
   "schemaVersion": 1,
-  "captured_at": "2026-07-21T04:00:53.806Z",
+  "captured_at": "2026-07-22T04:00:50.836Z",
   "epoch": 195,
-  "total_locks": 433,
+  "total_locks": 435,
   "unique_holders": 203,
   "system_vp": {
-    "total": 28048418.430932,
-    "fixed": 3019436.997117,
-    "decaying": 25028981.433815
+    "total": 28139200.827087,
+    "fixed": 3028515.236751,
+    "decaying": 25110685.590336
   },
-  "system_vp_sum_from_locks": 24993767.886735987,
-  "system_stale_vp_gap": 3840044.3406518213,
+  "system_vp_sum_from_locks": 25070766.158789985,
+  "system_stale_vp_gap": 3779430.9255231437,
   "auto_max": {
-    "lock_count": 277,
-    "vp": 23363918.567072984
+    "lock_count": 275,
+    "vp": 22956210.739025984
   },
   "decaying": {
-    "lock_count": 156,
-    "vp": 1629849.3196629998
+    "lock_count": 160,
+    "vp": 2114555.4197640005
   },
   "by_asset": [
     {
       "asset": "ampLUNA",
-      "vp": 8127834.753552998,
-      "locks": 233,
-      "amount": 498454.48181900015,
-      "stale_vp_gap": 1662999.401963712,
-      "underlying_now": 1109189.3799222184
+      "vp": 8200907.023415997,
+      "locks": 234,
+      "amount": 498459.2132230002,
+      "stale_vp_gap": 1600173.8041656697,
+      "underlying_now": 1110350.0039748254
     },
     {
       "asset": "arbLUNA",
-      "vp": 15798977.948014999,
-      "locks": 79,
-      "amount": 677358.3069069998,
-      "stale_vp_gap": 1915469.3475637995,
-      "underlying_now": 2023103.8200991321
+      "vp": 15802903.950205997,
+      "locks": 80,
+      "amount": 677404.9126269999,
+      "stale_vp_gap": 1917681.5302327683,
+      "underlying_now": 2023800.9614061813
     },
     {
       "asset": "LUNA",
@@ -49,8 +49,8 @@
       "vp": 759601.6129189997,
       "locks": 68,
       "amount": 63083.86471900002,
-      "stale_vp_gap": 228545.55929561603,
-      "underlying_now": 111650.77928774287
+      "stale_vp_gap": 228545.55929601297,
+      "underlying_now": 111650.77928778772
     },
     {
       "asset": "stLUNA",
@@ -66,37 +66,37 @@
       "bucket": "0-4w",
       "vp": 0.242304,
       "lock_count": 45,
-      "pct_of_decaying_vp": 0.000014866650375391796
+      "pct_of_decaying_vp": 0.000011458862592830168
     },
     {
       "bucket": "4-8w",
       "vp": 5133.861437999999,
       "lock_count": 27,
-      "pct_of_decaying_vp": 0.3149899426936912
+      "pct_of_decaying_vp": 0.2427868000060729
     },
     {
       "bucket": "8-13w",
       "vp": 152.82551199999997,
       "lock_count": 2,
-      "pct_of_decaying_vp": 0.009376665079174272
+      "pct_of_decaying_vp": 0.007227311735204197
     },
     {
       "bucket": "13-26w",
       "vp": 274873.50386,
       "lock_count": 22,
-      "pct_of_decaying_vp": 16.864964174530865
+      "pct_of_decaying_vp": 12.999115619806165
     },
     {
       "bucket": "26-52w",
       "vp": 308381.445121,
       "lock_count": 36,
-      "pct_of_decaying_vp": 18.920856142993838
+      "pct_of_decaying_vp": 14.583748538282226
     },
     {
       "bucket": "52w+",
-      "vp": 1041307.4414280001,
-      "lock_count": 24,
-      "pct_of_decaying_vp": 63.88979820805207
+      "vp": 1526013.541529,
+      "lock_count": 28,
+      "pct_of_decaying_vp": 72.16711027130772
     }
   ],
   "decay_projection": [
@@ -104,31 +104,31 @@
       "weeks_ahead": 4,
       "at_period": 199,
       "approx_date": "2026-08-24",
-      "vp": 27872606.325881
+      "vp": 27939859.299701
     },
     {
       "weeks_ahead": 8,
       "at_period": 203,
       "approx_date": "2026-09-21",
-      "vp": 27732871.758567
+      "vp": 27781301.194519
     },
     {
       "weeks_ahead": 13,
       "at_period": 208,
       "approx_date": "2026-10-26",
-      "vp": 27560900.168306
+      "vp": 27585800.181923
     },
     {
       "weeks_ahead": 26,
       "at_period": 221,
       "approx_date": "2027-01-25",
-      "vp": 27157600.424777
+      "vp": 27121323.940323
     },
     {
       "weeks_ahead": 52,
       "at_period": 247,
       "approx_date": "2027-07-26",
-      "vp": 26725797.786774
+      "vp": 26567168.306178
     }
   ]
 }
