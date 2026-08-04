@@ -1,48 +1,48 @@
 {
   "schemaVersion": 1,
-  "captured_at": "2026-08-03T04:00:54.818Z",
+  "captured_at": "2026-08-04T04:00:48.189Z",
   "epoch": 197,
-  "total_locks": 438,
+  "total_locks": 440,
   "unique_holders": 203,
   "system_vp": {
-    "total": 29328673.201533,
-    "fixed": 3155463.233322,
-    "decaying": 26173209.968211
+    "total": 29398301.781816,
+    "fixed": 3162556.183456,
+    "decaying": 26235745.59836
   },
-  "system_vp_sum_from_locks": 26133031.296171993,
-  "system_stale_vp_gap": 3930280.8066956587,
+  "system_vp_sum_from_locks": 26195810.716725994,
+  "system_stale_vp_gap": 3933061.0598280807,
   "auto_max": {
     "lock_count": 277,
-    "vp": 24071775.591761976
+    "vp": 24160966.344881974
   },
   "decaying": {
-    "lock_count": 161,
-    "vp": 2061255.7044099995
+    "lock_count": 163,
+    "vp": 2034844.3718439997
   },
   "by_asset": [
     {
       "asset": "ampLUNA",
-      "vp": 8410425.439154997,
-      "locks": 236,
-      "amount": 509118.8465770003,
-      "stale_vp_gap": 1694886.3378762791,
-      "underlying_now": 1144346.464882447
+      "vp": 8417525.395145997,
+      "locks": 237,
+      "amount": 509207.6855170002,
+      "stale_vp_gap": 1698573.1006865827,
+      "underlying_now": 1145614.6109989944
     },
     {
       "asset": "arbLUNA",
-      "vp": 16655910.546966996,
+      "vp": 16711590.011529997,
       "locks": 81,
-      "amount": 709940.6696939997,
-      "stale_vp_gap": 1970713.3308994577,
-      "underlying_now": 2124566.0011012456
+      "amount": 711974.3186139996,
+      "stale_vp_gap": 1969804.6577600373,
+      "underlying_now": 2130753.2999803545
     },
     {
       "asset": "LUNA",
       "vp": 286261.37413199997,
-      "locks": 49,
-      "amount": 33704.506705,
-      "stale_vp_gap": 16303.053420692308,
-      "underlying_now": 33704.506705
+      "locks": 50,
+      "amount": 33729.506705,
+      "stale_vp_gap": 16305.216882230769,
+      "underlying_now": 33729.506705
     },
     {
       "asset": "bLUNA",
@@ -65,38 +65,38 @@
     {
       "bucket": "0-4w",
       "vp": 393.42559800000004,
-      "lock_count": 62,
-      "pct_of_decaying_vp": 0.019086695413784754
+      "lock_count": 65,
+      "pct_of_decaying_vp": 0.019334431833893672
     },
     {
       "bucket": "4-8w",
       "vp": 3241.1893340000006,
       "lock_count": 11,
-      "pct_of_decaying_vp": 0.1572434379230857
+      "pct_of_decaying_vp": 0.15928438453810584
     },
     {
       "bucket": "8-13w",
       "vp": 33548.318461999996,
       "lock_count": 5,
-      "pct_of_decaying_vp": 1.6275670403348936
+      "pct_of_decaying_vp": 1.6486921027576233
     },
     {
       "bucket": "13-26w",
       "vp": 217549.395022,
       "lock_count": 21,
-      "pct_of_decaying_vp": 10.554216760034144
+      "pct_of_decaying_vp": 10.691205579759115
     },
     {
       "bucket": "26-52w",
       "vp": 290637.407655,
       "lock_count": 34,
-      "pct_of_decaying_vp": 14.100017141647653
+      "pct_of_decaying_vp": 14.283028799476247
     },
     {
       "bucket": "52w+",
-      "vp": 1515885.9683390001,
-      "lock_count": 28,
-      "pct_of_decaying_vp": 73.54186892464647
+      "vp": 1489474.635773,
+      "lock_count": 27,
+      "pct_of_decaying_vp": 73.19845470163503
     }
   ],
   "decay_projection": [
@@ -104,31 +104,31 @@
       "weeks_ahead": 4,
       "at_period": 201,
       "approx_date": "2026-09-07",
-      "vp": 29128073.37704
+      "vp": 29198981.48626
     },
     {
       "weeks_ahead": 8,
       "at_period": 205,
       "approx_date": "2026-10-05",
-      "vp": 28969942.379978
+      "vp": 29041886.22773
     },
     {
       "weeks_ahead": 13,
       "at_period": 210,
       "approx_date": "2026-11-09",
-      "vp": 28775851.128267
+      "vp": 28849089.649184
     },
     {
       "weeks_ahead": 26,
       "at_period": 223,
       "approx_date": "2027-02-08",
-      "vp": 28329841.26432
+      "vp": 28406445.935466
     },
     {
       "weeks_ahead": 52,
       "at_period": 249,
       "approx_date": "2027-08-09",
-      "vp": 27786336.686707
+      "vp": 27869673.658311
     }
   ]
 }
